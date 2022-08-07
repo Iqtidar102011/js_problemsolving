@@ -5,5 +5,5 @@ function leapYear(year) {
     else { return false; }
 
 }
-var result = leapYear(1900);
+var result = leapYear(2024);
 console.log(result);
